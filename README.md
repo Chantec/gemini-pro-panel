@@ -49,6 +49,13 @@
 2.  👉 [**点击这里一键安装脚本**](https://github.com/Chantec/gemini-pro-panel/raw/refs/heads/main/gemini-panel.user.js) 👈
 【或者 手动复制js至扩展中】
 3.  刷新 Gemini 页面，即可在右侧看到悬浮面板。
+4.  如果chrome安装后无反应，请看下面。
+
+## 安装后无面板
+
+油猴需要执行用户脚本的权限。具体原因及打开步骤见官方文档。
+
+[官方链接](https://www.tampermonkey.net/faq.php#Q209)
 
 ## 🛠 使用技巧
 
@@ -59,6 +66,7 @@
 ## 🗓️ 开发计划 (Roadmap)
 
 - [x] 基础功能：历史回溯、搜索、收藏
+- [ ] 支持其他网站(qwen、chatgpt等)
 - [ ] 支持数据导出/导入 (JSON 备份)
 - [ ] 自定义面板快捷键
 - [ ] 更多自定义主题设置
